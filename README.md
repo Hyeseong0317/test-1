@@ -85,5 +85,5 @@ push vs fetch
 
 [구글](https://google.com, "검색 사이트")
 
-###### 이미지 삽입 ![내가 지정하고 싶은 이미지 이름](이미지의 웹사이트상 주소)
-![이미지 연습](https://www.google.com/search?q=happy&sxsrf=ALeKk03uyWNNRQJ-fVGCb-nu3SNUe4N_aA:1615608580178&source=lnms&tbm=isch&biw=1536&bih=754#imgrc=oP5CnnxCSzzUHM)
+###### 이미지 삽입 ![내가 지정하고 싶은 이미지 이름](이미지의 웹사이트상 주소, 이미지 링크주소 )
+![이미지 연습](https://mhconsult.com/sites/default/files/blog/happiness.jpg)
