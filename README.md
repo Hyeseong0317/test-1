@@ -87,3 +87,6 @@ push vs fetch
 
 ###### 이미지 삽입 ![내가 지정하고 싶은 이미지 이름](이미지의 웹사이트상 주소, 이미지 링크주소 )
 ![이미지 연습](https://mhconsult.com/sites/default/files/blog/happiness.jpg)
+
+###### 깃허브의 images 디렉터리에 있는 이미지 삽입 방법
+![Sando산도](./images/산도유튜브.png)
